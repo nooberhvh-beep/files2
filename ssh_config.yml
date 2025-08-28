@@ -1,0 +1,8 @@
+ssh:
+  port: "2222"
+  user: "root"
+  password: "password"
+  # timeout: 30
+
+sftp:
+  enable: true
